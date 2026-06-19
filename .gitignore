@@ -1,0 +1,17 @@
+# Jupyter junk
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# JupyterLab scratch
+Untitled*.ipynb
+Untitled Folder/
+
+# OS
+.DS_Store
+Thumbs.db
