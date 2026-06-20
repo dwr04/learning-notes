@@ -15,3 +15,10 @@ Untitled Folder/
 # OS
 .DS_Store
 Thumbs.db
+
+# === Obsidian Custom Rules (兼容深层目录) ===
+# 无论 .obsidian 在哪层目录，都忽略其工作区和缓存
+**/.obsidian/workspace.json
+**/.obsidian/workspace
+**/.obsidian/cache/
+**/.obsidian/graph.json
