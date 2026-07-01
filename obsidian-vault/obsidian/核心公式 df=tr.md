@@ -1,0 +1,1 @@
+$$ df = \operatorname{tr}\!\left( \left( \frac{\partial f}{\partial X} \right)^{\top} dX \right) $$
